@@ -1,6 +1,6 @@
 # Declaring JS Doc types via TypeScript
 
-TypeScript Files can be used in JavaScript files' JsDocs.
+TypeScript files can be used in JavaScript files' JsDocs.
 
 ### Write your Type Definitions as you normally would in TypeScript
 ```TypeScript
